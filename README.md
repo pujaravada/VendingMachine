@@ -9,17 +9,18 @@ Submitted by: **Pujita Ravada**
 ## Documentation
 
 
-* User can choose a product by entering it.
+* User picks a product.
 * The price of Product is returned.
-* User has the option to continue with purchase or cancel buying. Choose 'P' to Proceed to payment or 'C' to Cancel.
+* User has the option to continue with purchase or cancel buying. Choose 'P' to proceed to payment or 'C' to Cancel.
 * Enter number of coins to insert and then Insert/Enter coins.
 * Item is returned out along with change. 
+* If coins inserted are insufficient for payment, product 
 
 
 ## Video Walkthrough 
 
 Here's a walkthrough of how to use the code:
 
-<img src='' title='Vending Machine' width='' alt='Vending Machine' />
+<img src='https://github.com/pujaravada/VendingMachine/blob/master/Vending%20Machine.gif' title='Vending Machine' width='' alt='Vending Machine' />
 
 
