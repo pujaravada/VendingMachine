@@ -16,6 +16,9 @@ Submitted by: **Pujita Ravada**
 * Item is returned out along with change. 
 * If coins inserted are insufficient for payment, product 
 
+## Assumption
+Vending Machine accepts only Cash Payments
+
 
 ## Video Walkthrough 
 
